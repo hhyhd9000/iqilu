@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "orgId": 519,
+    "index": 0,
+    "name": "新闻综合频道",
+    "icon": "https://img11.iqilu.com/179/2019/12/10/8203f05252f2875d46a5d74ec804cf43.jpg",
+    "logo": "https://img11.iqilu.com/179/2019/12/10/8203f05252f2875d46a5d74ec804cf43.jpg",
+    "stream": "https://alivealone302.litenews.cn/179/0d4aa29109194c9d8da23cc044614538/playlist.m3u8?k=d0c2a407e021727bd66de8f9360e77d5&t=1787142436",
+    "desc": "新闻综合频道",
+    "id": 18,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合频道",
+      "image": "https://img11.iqilu.com/179/2019/12/10/8203f05252f2875d46a5d74ec804cf43.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTUxOS0xOA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 519,
+    "index": 1,
+    "name": "经济生活频道",
+    "icon": "https://img11.iqilu.com/179/2019/12/10/b1a10dda1e3a2b59265641d0a20a10b7.jpg",
+    "logo": "https://img11.iqilu.com/179/2019/12/10/b1a10dda1e3a2b59265641d0a20a10b7.jpg",
+    "stream": "https://alivealone302.litenews.cn/179/889af08ba99f4f29a3f50b21a75a1670/playlist.m3u8?k=fdaea26d20a854b6291d84d5fd6bf94f&t=1787142436",
+    "desc": "经济生活频道",
+    "id": 20,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "经济生活频道",
+      "image": "https://img11.iqilu.com/179/2019/12/10/b1a10dda1e3a2b59265641d0a20a10b7.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTUxOS0yMA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 519,
+    "index": 2,
+    "name": "图文频道",
+    "icon": "https://img11.iqilu.com/179/2020/12/30/0ea68ecfb36ae47e4a6f78f03b40fbfd.jpg",
+    "logo": "https://img11.iqilu.com/179/2020/12/30/0ea68ecfb36ae47e4a6f78f03b40fbfd.jpg",
+    "stream": "https://alivealone302.litenews.cn/179/889af08ba99f4f29a3f50b21a75a1670/playlist.m3u8?k=fdaea26d20a854b6291d84d5fd6bf94f&t=1787142436",
+    "desc": "图文频道",
+    "id": 22,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "图文频道",
+      "image": "https://img11.iqilu.com/179/2020/12/30/0ea68ecfb36ae47e4a6f78f03b40fbfd.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTUxOS0yMg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 537,
+    "index": 0,
+    "name": "新闻综合",
+    "icon": "https://img11.litenews.cn/537/2023/05/03/f582654a7005568a9ad9bbbe823a1022.png",
+    "logo": "https://img11.litenews.cn/537/2025/09/22/1cc35a10c39141969abeaa0a4a748d2b.png",
+    "stream": "https://alivealone302.litenews.cn/537/202304_1651887564107485184/playlist.m3u8?k=5659c2d6f59e33601af5621ac2146b4b&t=1787142443",
+    "desc": "新闻综合频道",
+    "id": 1,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合",
+      "image": "https://img11.litenews.cn/537/2023/05/03/f582654a7005568a9ad9bbbe823a1022.png",
+      "url": "https://ady.dongyingnews.cn/share/dHZsLTUzNy0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 537,
+    "index": 1,
+    "name": "公共频道",
+    "icon": "https://img11.litenews.cn/537/2023/05/03/f582654a7005568a9ad9bbbe823a1022.png",
+    "logo": "https://img11.litenews.cn/537/2025/09/22/71f4e38ba08f47ec8b04a15439db5b96.png",
+    "stream": "https://alivealone302.litenews.cn/537/202304_1651887564182982656/playlist.m3u8?k=5115cb93c6d50e944bdd62520af522b2&t=1787142443",
+    "desc": "公共频道",
+    "id": 3,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "公共频道",
+      "image": "https://img11.litenews.cn/537/2023/05/03/f582654a7005568a9ad9bbbe823a1022.png",
+      "url": "https://ady.dongyingnews.cn/share/dHZsLTUzNy0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 537,
+    "index": 2,
+    "name": "科教频道",
+    "icon": "https://img11.litenews.cn/537/2023/05/03/f582654a7005568a9ad9bbbe823a1022.png",
+    "logo": "https://img11.litenews.cn/537/2025/09/22/4fcb1cf8edc84b9e90a75903f2961747.png",
+    "stream": "https://alivealone302.litenews.cn/537/202305_1654684492679512064/playlist.m3u8?k=c89055478ed585529060364f98e90f85&t=1787142443",
+    "desc": "东营科教频道",
+    "id": 7,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "科教频道",
+      "image": "https://img11.litenews.cn/537/2023/05/03/f582654a7005568a9ad9bbbe823a1022.png",
+      "url": "https://ady.dongyingnews.cn/share/dHZsLTUzNy03.html",
+      "desc": "点击观看精彩节目"
+    }
+  }
+]
